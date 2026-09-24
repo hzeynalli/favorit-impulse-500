@@ -1,0 +1,310 @@
+[
+ {
+  "category": "n11 search (srt=SALES_VOLUME): bulaşık süngeri",
+  "listing_url": "https://www.n11.com/arama?q=bula%C5%9F%C4%B1k+s%C3%BCngeri&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 20,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): mikrofiber bez",
+  "listing_url": "https://www.n11.com/arama?q=mikrofiber+bez&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 20,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): mop",
+  "listing_url": "https://www.n11.com/arama?q=mop&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 22,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): çamaşır mandalı",
+  "listing_url": "https://www.n11.com/arama?q=%C3%A7ama%C5%9F%C4%B1r+mandal%C4%B1&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 20,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): askı",
+  "listing_url": "https://www.n11.com/arama?q=ask%C4%B1&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 25,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): saklama kabı",
+  "listing_url": "https://www.n11.com/arama?q=saklama+kab%C4%B1&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 25,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): baharatlık",
+  "listing_url": "https://www.n11.com/arama?q=baharatl%C4%B1k&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 23,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): çay bardağı",
+  "listing_url": "https://www.n11.com/arama?q=%C3%A7ay+barda%C4%9F%C4%B1&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 20,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): çaydanlık",
+  "listing_url": "https://www.n11.com/arama?q=%C3%A7aydanl%C4%B1k&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 25,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): cezve",
+  "listing_url": "https://www.n11.com/arama?q=cezve&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 24,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): tava",
+  "listing_url": "https://www.n11.com/arama?q=tava&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 23,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): rende",
+  "listing_url": "https://www.n11.com/arama?q=rende&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 25,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): soyacak",
+  "listing_url": "https://www.n11.com/arama?q=soyacak&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 21,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): kesme tahtası",
+  "listing_url": "https://www.n11.com/arama?q=kesme+tahtas%C4%B1&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 25,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): bıçak seti",
+  "listing_url": "https://www.n11.com/arama?q=b%C4%B1%C3%A7ak+seti&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 20,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): mutfak havlusu",
+  "listing_url": "https://www.n11.com/arama?q=mutfak+havlusu&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 25,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): banyo paspası",
+  "listing_url": "https://www.n11.com/arama?q=banyo+paspas%C4%B1&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 20,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): duş başlığı",
+  "listing_url": "https://www.n11.com/arama?q=du%C5%9F+ba%C5%9Fl%C4%B1%C4%9F%C4%B1&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 23,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): sabunluk",
+  "listing_url": "https://www.n11.com/arama?q=sabunluk&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 21,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): pil",
+  "listing_url": "https://www.n11.com/arama?q=pil&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 25,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): led ampul",
+  "listing_url": "https://www.n11.com/arama?q=led+ampul&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 24,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): uzatma kablosu",
+  "listing_url": "https://www.n11.com/arama?q=uzatma+kablosu&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 25,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): yapışkan askı",
+  "listing_url": "https://www.n11.com/arama?q=yap%C4%B1%C5%9Fkan+ask%C4%B1&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 20,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): organizer",
+  "listing_url": "https://www.n11.com/arama?q=organizer&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 20,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): kavanoz",
+  "listing_url": "https://www.n11.com/arama?q=kavanoz&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 24,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): termos",
+  "listing_url": "https://www.n11.com/arama?q=termos&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 25,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): matara",
+  "listing_url": "https://www.n11.com/arama?q=matara&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 25,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): kupa",
+  "listing_url": "https://www.n11.com/arama?q=kupa&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 23,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): su bardağı",
+  "listing_url": "https://www.n11.com/arama?q=su+barda%C4%9F%C4%B1&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 25,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "n11 search (srt=SALES_VOLUME): tepsi",
+  "listing_url": "https://www.n11.com/arama?q=tepsi&srt=SALES_VOLUME",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "items_on_page_read": 24,
+  "retailer": "n11 TR",
+  "sort_used": "srt=SALES_VOLUME",
+  "note": "Only in-scope items recorded (rank = raw position on page 1). Sort param verified: order differs from default and from srt=FOOBAR (which returns default); srt=REVIEWS also works. Positions 5-9 often hold a sponsored carousel (items without review counts that reappear lower organically); flagged possible_sponsored. Image URLs not exposed via fetch."
+ },
+ {
+  "category": "Carrefour RO - Vase de gatit (and other Casa/bucatarie categories)",
+  "listing_url": "https://carrefour.ro/casa-gradina-si-petshop/ustensile-si-accesorii-bucatarie/vase-de-gatit",
+  "total_items_if_shown": null,
+  "pages_read": 0,
+  "retailer": "Carrefour RO",
+  "note": "BLOCKED: product grid is rendered client-side by JavaScript; static HTML has only navigation. 3 attempts: /vase-de-gatit (no products), /tigai-si-wok-uri?product_list_order=bestsellers (robots.txt disallowed), /tigai-si-wok-uri (no products). Stopped per instructions. No sort could be read or applied."
+ }
+]

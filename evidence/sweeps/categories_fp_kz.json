@@ -1,0 +1,119 @@
+[
+ {
+  "category": "Для дома > Для кухни (Kitchen)",
+  "listing_url": "https://fix-price.kz/ru/catalog/dlya-doma/dlya-kukhni",
+  "total_items_if_shown": null,
+  "total_pages_shown": 78,
+  "pages_read": 4,
+  "sort": "default 'Сначала популярные' (sort= blocked by robots.txt)",
+  "note": "78 pages total; top 96 read. Listing mixes consumables (napkins, foil, bags) which were excluded"
+ },
+ {
+  "category": "Для дома > Для уборки (Cleaning)",
+  "listing_url": "https://fix-price.kz/ru/catalog/dlya-doma/tovary-dlya-uborki",
+  "total_items_if_shown": null,
+  "total_pages_shown": 5,
+  "pages_read": 4,
+  "sort": "default 'Сначала популярные' (sort= blocked by robots.txt)",
+  "note": "page 3 404 on /ru/ URL x3; read via https://fix-price.kz/catalog/dlya-doma/tovary-dlya-uborki?page=3"
+ },
+ {
+  "category": "Для дома > Для ванной (Bathroom)",
+  "listing_url": "https://fix-price.kz/ru/catalog/dlya-doma/dlya-vannoy",
+  "total_items_if_shown": 34,
+  "total_pages_shown": 2,
+  "pages_read": 2,
+  "sort": "default 'Сначала популярные' (sort= blocked by robots.txt)",
+  "note": "only 2 pages / 34 items exist"
+ },
+ {
+  "category": "Для дома > Хозяйственные мелочи (Household sundries)",
+  "listing_url": "https://fix-price.kz/ru/catalog/dlya-doma/khozyaystvennye-melochi",
+  "total_items_if_shown": 77,
+  "total_pages_shown": 4,
+  "pages_read": 4,
+  "sort": "default 'Сначала популярные' (sort= blocked by robots.txt)",
+  "note": "4 pages / 77 items (all read)"
+ },
+ {
+  "category": "Для дома > Электротовары (Electrical)",
+  "listing_url": "https://fix-price.kz/ru/catalog/dlya-doma/elektrotovary",
+  "total_items_if_shown": null,
+  "total_pages_shown": 12,
+  "pages_read": 3,
+  "sort": "default 'Сначала популярные' (sort= blocked by robots.txt)",
+  "note": "page 4 returned HTTP 404 on 3 attempts (+1 on non-/ru/ URL); pages 1-3 read"
+ },
+ {
+  "category": "Для дома > Организация хранения (Storage)",
+  "listing_url": "https://fix-price.kz/ru/catalog/dlya-doma/organizatsiya-khraneniya",
+  "total_items_if_shown": null,
+  "total_pages_shown": 5,
+  "pages_read": 4,
+  "sort": "default 'Сначала популярные' (sort= blocked by robots.txt)",
+  "note": "first fetch of page 1 returned 'Товары не найдены'; ?page=1 retry succeeded"
+ },
+ {
+  "category": "Для дома > Текстиль (Textiles)",
+  "listing_url": "https://fix-price.kz/ru/catalog/dlya-doma/tekstil",
+  "total_items_if_shown": 40,
+  "total_pages_shown": 2,
+  "pages_read": 2,
+  "sort": "default 'Сначала популярные' (sort= blocked by robots.txt)",
+  "note": "only 2 pages / 40 items exist"
+ },
+ {
+  "category": "Для дома > Полотенца (Towels)",
+  "listing_url": "https://fix-price.kz/ru/catalog/dlya-doma/polotentsa",
+  "total_items_if_shown": 6,
+  "total_pages_shown": 1,
+  "pages_read": 1,
+  "sort": "default 'Сначала популярные' (sort= blocked by robots.txt)",
+  "note": "only 6 items exist"
+ },
+ {
+  "category": "Для дома > Аксессуары для одежды (Clothes care)",
+  "listing_url": "https://fix-price.kz/ru/catalog/dlya-doma/aksessuary-dlya-odezhdy",
+  "total_items_if_shown": 23,
+  "total_pages_shown": 1,
+  "pages_read": 1,
+  "sort": "default 'Сначала популярные' (sort= blocked by robots.txt)",
+  "note": "only 23 items (1 page)"
+ },
+ {
+  "category": "Для дома > Аксессуары для обуви (Shoe care)",
+  "listing_url": "https://fix-price.kz/ru/catalog/dlya-doma/aksessuary-dlya-obuvi",
+  "total_items_if_shown": 37,
+  "total_pages_shown": 2,
+  "pages_read": 2,
+  "sort": "default 'Сначала популярные' (sort= blocked by robots.txt)",
+  "note": "only 2 pages / 37 items"
+ },
+ {
+  "category": "Для дома > Для ремонта (Repair / tools)",
+  "listing_url": "https://fix-price.kz/ru/catalog/dlya-doma/dlya-remonta",
+  "total_items_if_shown": null,
+  "total_pages_shown": 7,
+  "pages_read": 4,
+  "sort": "default 'Сначала популярные' (sort= blocked by robots.txt)",
+  "note": "page 2 404 on /ru/ URL x3; read via https://fix-price.kz/catalog/dlya-doma/dlya-remonta?page=2"
+ },
+ {
+  "category": "Декор для дома > Товары для декора (Decor)",
+  "listing_url": "https://fix-price.kz/ru/catalog/dekor-dlya-doma-tovary-dlya-prazdnika/tovary-dlya-dekora",
+  "total_items_if_shown": 79,
+  "total_pages_shown": 4,
+  "pages_read": 4,
+  "sort": "default 'Сначала популярные' (sort= blocked by robots.txt)",
+  "note": "4 pages / 79 items (all read); mostly seasonal autumn/New Year decor, excluded"
+ },
+ {
+  "category": "Декор для дома > Товары для пикника (Picnic)",
+  "listing_url": "https://fix-price.kz/ru/catalog/dekor-dlya-doma-tovary-dlya-prazdnika/tovary-dlya-piknika",
+  "total_items_if_shown": 28,
+  "total_pages_shown": 2,
+  "pages_read": 2,
+  "sort": "default 'Сначала популярные' (sort= blocked by robots.txt)",
+  "note": "2 pages / 28 items (all read); disposables, charcoal, fluids excluded"
+ }
+]

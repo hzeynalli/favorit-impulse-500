@@ -1,0 +1,107 @@
+[
+ {
+  "category": "Для дома > Для уборки (cleaning tools)",
+  "listing_url": "https://fix-price.com/catalog/dlya-doma/tovary-dlya-uborki?sort=sold",
+  "total_items_if_shown": null,
+  "pages_read": 4,
+  "note": "page 5 returned 404; category has 4 pages (~95 items)"
+ },
+ {
+  "category": "Для дома > Для ванной (bathroom)",
+  "listing_url": "https://fix-price.com/catalog/dlya-doma/dlya-vannoy?sort=sold",
+  "total_items_if_shown": null,
+  "pages_read": 2,
+  "note": ""
+ },
+ {
+  "category": "Для дома > Аксессуары для одежды (clothes accessories)",
+  "listing_url": "https://fix-price.com/catalog/dlya-doma/aksessuary-dlya-odezhdy?sort=sold",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "note": "single page of 20 items; page 2 returned 404"
+ },
+ {
+  "category": "Для дома > Организация хранения (storage & organisation)",
+  "listing_url": "https://fix-price.com/catalog/dlya-doma/organizatsiya-khraneniya?sort=sold",
+  "total_items_if_shown": null,
+  "pages_read": 3,
+  "note": "3 pages only (63 items)"
+ },
+ {
+  "category": "Для дома > Электротовары (electrical: batteries, bulbs, lighting, power, mobile)",
+  "listing_url": "https://fix-price.com/catalog/dlya-doma/elektrotovary?sort=sold",
+  "total_items_if_shown": null,
+  "pages_read": 5,
+  "note": "pagination shows 13 pages"
+ },
+ {
+  "category": "Для дома > Для ремонта (repair / tools / hardware)",
+  "listing_url": "https://fix-price.com/catalog/dlya-doma/dlya-remonta?sort=sold",
+  "total_items_if_shown": null,
+  "pages_read": 5,
+  "note": "pagination shows 8 pages"
+ },
+ {
+  "category": "Сувениры и подарки > Свечи, диффузоры, подсвечники (candles, diffusers, holders)",
+  "listing_url": "https://fix-price.com/catalog/suveniry-i-podarki/svechi-diffuzory-podsvechniki?sort=sold",
+  "total_items_if_shown": null,
+  "pages_read": 5,
+  "note": "5 pages total (last page 23 items)"
+ },
+ {
+  "category": "Сувениры и подарки > Вазы, цветы, флористика (vases, artificial flowers)",
+  "listing_url": "https://fix-price.com/catalog/suveniry-i-podarki/vazy-tsvety-floristika?sort=sold",
+  "total_items_if_shown": null,
+  "pages_read": 5,
+  "note": "5 pages total (last page 23 items)"
+ },
+ {
+  "category": "Сувениры и подарки > Фоторамки, фотоальбомы, постеры (frames, wall decor)",
+  "listing_url": "https://fix-price.com/catalog/suveniry-i-podarki/fotoramki-fotoalbomy-postery?sort=sold",
+  "total_items_if_shown": null,
+  "pages_read": 2,
+  "note": "2 pages total (35 items)"
+ },
+ {
+  "category": "Сувениры и подарки > Зеркала, часы (mirrors, clocks)",
+  "listing_url": "https://fix-price.com/catalog/suveniry-i-podarki/zerkala-chasy?sort=sold",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "note": "single page, 10 items"
+ },
+ {
+  "category": "Сувениры и подарки > Подставки, шкатулки, светильники (trays, boxes, decorative lights)",
+  "listing_url": "https://fix-price.com/catalog/suveniry-i-podarki/podstavki-shkatulki-svetilniki?sort=sold",
+  "total_items_if_shown": null,
+  "pages_read": 4,
+  "note": "pagination shows 5 pages; page 5 returned 404 on 3 attempts"
+ },
+ {
+  "category": "Для дома > Хозяйственные мелочи (household sundries)",
+  "listing_url": "https://fix-price.com/catalog/dlya-doma/khozyaystvennye-melochi?sort=sold",
+  "total_items_if_shown": null,
+  "pages_read": 3,
+  "note": "3 pages total (65 items)"
+ },
+ {
+  "category": "Для дома > Аксессуары для обуви (shoe care accessories)",
+  "listing_url": "https://fix-price.com/catalog/dlya-doma/aksessuary-dlya-obuvi?sort=sold",
+  "total_items_if_shown": null,
+  "pages_read": 2,
+  "note": "2 pages total (42 items)"
+ },
+ {
+  "category": "Сувениры и подарки > Фигурки и статуэтки (figurines)",
+  "listing_url": "https://fix-price.com/catalog/suveniry-i-podarki/figurki-i-statuetki?sort=sold",
+  "total_items_if_shown": null,
+  "pages_read": 2,
+  "note": "pagination shows 3 pages; Easter/New Year/Valentine items excluded"
+ },
+ {
+  "category": "Декор для дома, товары для праздника > Товары для декора (seasonal-heavy decor)",
+  "listing_url": "https://fix-price.com/catalog/dekor-dlya-doma-tovary-dlya-prazdnika/tovary-dlya-dekora?sort=sold",
+  "total_items_if_shown": null,
+  "pages_read": 1,
+  "note": "pagination shows 4 pages; mostly seasonal (autumn / New Year), only page 1 read"
+ }
+]
